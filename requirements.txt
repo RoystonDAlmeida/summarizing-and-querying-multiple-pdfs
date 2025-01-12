@@ -1,0 +1,15 @@
+# Installing chromadb
+chromadb
+
+# Langchain
+langchain
+
+# Install langchain-groq to communicate with Llama model
+langchain-groq
+
+# PyPDF for reading PDFs
+pypdf
+
+# Transformers package
+transformers
+
