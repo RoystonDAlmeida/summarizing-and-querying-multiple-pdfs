@@ -1,0 +1,14 @@
+A study analyzing 16,979 arXiv papers on large language models (LLMs) from 2018 to 2023 reveals key trends: 
+
+* A 20x growth in research on societal impacts of LLMs
+* Increased participation from non-NLP fields and Asian universities
+* Decreased industry publication share and limited international collaboration
+* A need for open-source models, interdisciplinary collaboration, and educational resources to promote responsible AI development.
+
+
+This article provides an overview of Large Language Models, covering recent developments, innovations, and applications, to facilitate further research in the field.
+
+
+This paper surveys Large Language Models (LLMs), a type of AI that excels in natural language tasks. LLMs are trained on vast text data, enabling human-like language understanding and generation. The paper reviews prominent LLMs, techniques, and challenges, discussing their capabilities, applications, and future research directions, highlighting their potential as a fundamental component of general-purpose AI agents.
+
+
